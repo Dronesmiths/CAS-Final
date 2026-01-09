@@ -1,6 +1,6 @@
 // Basic interactions scripts
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Working Class HVAC site loaded');
+    console.log('CAS Evaluations site loaded');
 
     // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
